@@ -1,5 +1,5 @@
 # Python v3.5.1
-# docker run --rm pottava/python:3.5
+# docker run --rm takatakato/python:3.5
 
 FROM alpine:3.4
 
